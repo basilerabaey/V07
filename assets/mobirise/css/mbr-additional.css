@@ -1773,6 +1773,19 @@ body {
   color: #ffffff;
   text-align: center;
 }
+.cid-rb5QAH2d0i {
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rb5QAH2d0i .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rb5QAH2d0i .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
